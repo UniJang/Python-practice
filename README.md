@@ -1,4 +1,5 @@
-<p1>Python practice</p1>
+# Python practice
 
-<p3>Bronze 5</p3>
+### Bronze 5
+
 https://www.acmicpc.net/problem/18301
